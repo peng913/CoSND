@@ -29,7 +29,8 @@ And you can download the dataset from [https://github.com/budzianowski/multiwoz]
 Thanks to [guo](https://github.com/guojinyu88/DiCoS-master), I used their preprocessed dataset.
 - MultiWOZ 2.1: [Google Drive](https://drive.google.com/drive/folders/15Lsaevxbj9P84q8DAavEpHl42GOBTAV3?usp=sharing)
 - MultiWOZ 2.2: [Google Drive](https://drive.google.com/drive/folders/1IsrlFRJOJMnJwMmGnCK8LIR8D98YzajG?usp=sharing)
-When you click on the link, you will find that this person, Gou, did not provide the dataset. That is correct; he did it intentionally. Therefore, I used create_data.py to create it. This file has a long history on DST, so you can use it with confidence.
+
+When you click on the link, you will find that this person, Guo, did not provide the dataset. That is correct; he did it intentionally. Therefore, I used create_data.py to create it. This file has a long history on DST, so you can use it with confidence.
 
 ## Train & Evaluation
 Before training, make sure you have prepared all input files(```data/schema.json```, ```data/train_dials.json```, ```data/dev_dials.json```, ```data/dev_dials.json```) and pretrained models(```pretrained_models/```).
